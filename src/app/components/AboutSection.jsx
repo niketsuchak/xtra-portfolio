@@ -23,8 +23,9 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Academy of Code</li>
-        <li>University of California, Santa Cruz</li>
+        <li>B.Tech in Information Technology</li>
+        <li>Vellore Institute of Technology, Vellore</li>
+        <li>2021-2025</li>
       </ul>
     ),
   },
@@ -33,8 +34,7 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>Foundational C# with Microsoft</li>
       </ul>
     ),
   },
